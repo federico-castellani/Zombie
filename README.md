@@ -2,6 +2,10 @@
 
 A Call of Duty Zombies-inspired survival game built in Unreal Engine 5.
 
+## Executable
+
+Download it [here](https://dovias.itch.io/zombie).
+
 ## Overview
 
 Zombi is a first-person survival shooter that takes inspiration from the classic Call of Duty Zombies game mode. Fight against waves of undead enemies using an arsenal of weapons while trying to survive as long as possible.
